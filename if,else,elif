@@ -1,0 +1,27 @@
+#sample
+a=10
+b=20
+if a==b:
+    print("it is true")
+else:
+    print("it is false")
+    
+    
+#logic condition    
+a=20
+b=30
+if a==b and a<b:
+    print("true")
+else:
+    print("false")
+#elif condition  
+
+
+a=30
+b=20
+if a<b:
+    print("👍👍")
+elif a>b:
+    print("👎👎")
+else:
+    print("✌️✌️")
